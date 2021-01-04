@@ -12,6 +12,7 @@
 - run `. ./alias.bash` in the terminal to add aliases
 - run `composer install`
 - run `artisan key:generate`
+- run `artisan migrate`
 - run `artisan db:seed`
 
 ## Testing
