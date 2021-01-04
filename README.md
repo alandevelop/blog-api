@@ -16,4 +16,4 @@
 - run `artisan db:seed`
 
 ## Testing
-In case of using postman or other rest client please provide Accept: `application/json` header for all queries
+In case of using postman or other rest clients please provide `Accept: application/json` header for all queries
